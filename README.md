@@ -1,1 +1,4 @@
-# docker-golang-mysql
+# Docker + Golang + Mysql - DockerHub
+```
+lbrunoq/golang-mysql
+```
