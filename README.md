@@ -33,3 +33,10 @@ cd app
 - docker build -t lbrunoq/nginx .
 - docker run -d --name nginx --network pfa_net -p 8080:80 lbrunoq/nginx
 ```
+
+## Publicando as imagens
+
+```
+- docker push lbrunoq/golang-mysql
+- docker push lbrunoq/nginx
+```
