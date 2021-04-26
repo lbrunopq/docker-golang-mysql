@@ -150,7 +150,7 @@ func Start() {
 }
 
 func main() {
-	DropTable()
+	// DropTable()
 	CreateTable()
 	Insert()
 	Start()
